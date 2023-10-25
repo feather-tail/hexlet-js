@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "study",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feather-tail/hexlet-js.git"
+  },
+  "author": "Рыжков",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feather-tail/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/feather-tail/hexlet-js#readme"
+}
